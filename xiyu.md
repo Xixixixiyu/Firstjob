@@ -38,6 +38,6 @@ void xiyu{
 
 [README](./README.md)
 
-![JLU](./JLU.jpg "badge")
+![JLU](./jlu.jpg "badge")
 
 ![JLU](https://static-data.eol.cn/upload/school/1552285929_9281_thumb.jpg "view")
